@@ -3,7 +3,7 @@
 ## Hi there 👋
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats-five-lovat-30.vercel.app/api?username=YalinFeng01)
+![](https://github-readme-stats-five-lovat-30.vercel.app/api?username=YalinFeng01&layout=compact&theme=radical)
 
 ![Top Langs](https://github-readme-stats-five-lovat-30.vercel.app/api/top-langs/?username=YalinFeng01&layout=compact&theme=radical&langs_count=8)
 
