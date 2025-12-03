@@ -4,3 +4,5 @@
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats-five-lovat-30.vercel.app/api?username=YalinFeng01)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
